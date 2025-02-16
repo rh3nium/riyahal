@@ -1,1 +1,1 @@
-⚡ Embedded systems, Control systems, Automation
+Embedded systems, Control systems, Automation
