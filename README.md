@@ -1,3 +1,3 @@
 Hi, I’m Riya
 
-⚡ Interests: Embedded systems, Control systems, Automation
+⚡ I'm interested in Embedded systems, Control systems, Automation
