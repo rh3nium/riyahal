@@ -1,1 +1,1 @@
-Embedded systems
+Python, C, C++, JS, HTML/CSS
