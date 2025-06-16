@@ -4,7 +4,9 @@ Languages &nbsp;
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/rh3nium/Web-Development)
 [![CSS](https://img.shields.io/badge/CSS-%231572B6?style=flat-square&logo=css3&logoColor=white)](https://github.com/rh3nium/Web-Development)
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/rh3nium/Web-Development)
-[![Bash](https://img.shields.io/badge/Bash-%23F7DF1E?style=flat-square&logo=bash&logoColor=green)](https://github.com/rh3nium/Bash)
+[![Bash](https://img.shields.io/badge/Bash-%23F7DF1E?style=flat-square&logo=bash&logoColor=white)](https://github.com/rh3nium/Bash)
 
 Frameworks &nbsp;
 [![React Native](https://img.shields.io/badge/React%20Native-%2361DAFB?style=flat-square&logo=react&logoColor=black)](https://github.com/rh3nium)
+
+Interests &nbsp; <i>world news, food, movies, Anime, travel, games</i>
