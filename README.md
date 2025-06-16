@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rh3nium&layout=compact&theme=dark&bg_color=000000&border_color=444444&hide_border=true)](https://github.com/rh3nium/)
+
