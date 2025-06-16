@@ -8,5 +8,3 @@ Languages &nbsp;
 
 Frameworks &nbsp;
 [![React Native](https://img.shields.io/badge/React%20Native-%2361DAFB?style=flat-square&logo=react&logoColor=black)](https://github.com/rh3nium)
-
-Interests &nbsp; <i>world news, food, movies, Anime, travel, games</i>
