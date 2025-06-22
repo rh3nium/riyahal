@@ -8,3 +8,4 @@ Langs &nbsp;
 
 Frameworks &nbsp;
 [![React Native](https://img.shields.io/badge/React%20Native-%2361DAFB?style=flat-square&logo=react&logoColor=black)](https://github.com/rh3nium)
+[![OpenCV](https://img.shields.io/badge/OpenCV-%2361DAFB?style=flat-square&logo=opencv&logoColor=white)](https://github.com/rh3nium)
